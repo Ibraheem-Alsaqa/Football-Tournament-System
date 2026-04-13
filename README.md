@@ -49,4 +49,4 @@ To prevent unintended side effects, the `getPlayers()` method in the `Team` clas
 **Ibrahim Raafat Al-Saqa** *Computer Engineering Student at the University of Jordan*
 
 * **Focus:** Software Development, Embedded Systems, and Digital Logic Design.
-* **Connect:** [LinkedIn](linkedin.com/in/ibraheem-alsaqqa) | [GitHub](https://github.com/Ibraheem-Alsaqa)
+* **Connect:** [LinkedIn]([linkedin.com/in/ibraheem-alsaqqa](https://www.linkedin.com/in/ibraheem-alsaqqa/)) | [GitHub](https://github.com/Ibraheem-Alsaqa)
